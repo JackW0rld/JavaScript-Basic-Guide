@@ -1,0 +1,12 @@
+{
+  "name": "javascript-first-lenguaje-guide",
+  "version": "1.0.0",
+  "description": "En esta guía básica de JavaScript, podrás entender de forma interactiva algunos conceptos fundamentales de JavaScript, como tipos de datos, estructura de datos, operadores, funciones y objetos. El objetivo de esta guía es ayudarte a familiarizarte con la sintaxis de JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JackW0rld",
+  "license": "MIT"
+}
